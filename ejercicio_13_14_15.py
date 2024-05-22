@@ -19,9 +19,9 @@ while True:
     if opcion == 3 : 
         resultado=(a*b)/2.5
         print(f"el resultado es {resultado}\n") 
-        if opcion == 4 :
-            print("\ngracias por su visita")
-            break
+    elif opcion == 4 :
+        print("\ngracias por su visita")
+        break
 
 
                                    
